@@ -1,0 +1,26 @@
+{
+  "name": "Fex-sohu",
+  "title": "Fex Sohu",
+  "description": "The best Fex",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kunqian/Fex-sohu",
+  "author": {
+    "name": "kunqian",
+    "email": "kunqian@sohu-inc.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kunqian/Fex-sohu.git"
+  },
+  "bugs": "https://github.com/kunqian/Fex-sohu/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kunqian/Fex-sohu/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
